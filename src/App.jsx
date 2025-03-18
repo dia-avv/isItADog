@@ -6,7 +6,7 @@ import ForwardPage from "./views/ForwardPage";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/isItADog/",
     element: <Layout />,
     children: [
       {
