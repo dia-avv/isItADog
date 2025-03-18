@@ -1,4 +1,4 @@
-import logo from '..aassets/logo.png';
+import logo from '../aassets/logo.png';
 
 export default function Home() {
     return (
